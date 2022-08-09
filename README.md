@@ -1,0 +1,2 @@
+# qi-cordova-template
+ 
